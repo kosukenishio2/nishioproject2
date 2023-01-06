@@ -1,4 +1,5 @@
 <template>
+
   <div>
     <p class="text-black font-bold ml-20">
       西尾洪介・それは人間
@@ -30,6 +31,7 @@
       </a>
     </p>
 
+    <img src="/main/1.jpg" alt="">
     <p>
       2023
     </p>
