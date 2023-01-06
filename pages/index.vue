@@ -31,7 +31,8 @@
       </a>
     </p>
 
-    <img src="/toppage/1.jpg" alt="top">
+    <img src="@/static/toppage/one.jpg" alt="top">
+
     <p>
       2023
     </p>
