@@ -16,10 +16,7 @@
         うんこうんこうんこうんこうんこうんこうんこうんこ
       </p>
   
-      <a href="/naaaa">gyuguyuygyugyugyuguyg</a>
-
-
-
+  
       <p>
         <a href="/info">インフォ</a>
       </p>
