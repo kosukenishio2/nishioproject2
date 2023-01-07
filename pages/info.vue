@@ -10,7 +10,7 @@
         インフォです
       </p>
       <p class="text-pink-500 font-bold">
-        インフォです
+        インフォですjiooijoij
       </p>
       <p class="text-black font-bold">
         うんこうんこうんこうんこうんこうんこうんこうんこ
