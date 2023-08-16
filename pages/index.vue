@@ -1,6 +1,4 @@
 <template>
-
-
   <div class="w-full m-auto my-10">
     <div class="text-center">
     <p class="text-red-500 font-bold text-4xl pb-10">
